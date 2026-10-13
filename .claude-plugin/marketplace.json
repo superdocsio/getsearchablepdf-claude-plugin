@@ -1,0 +1,15 @@
+{
+  "name": "getsearchablepdf",
+  "description": "GetSearchablePDF for Claude, from Superdocs.",
+  "owner": {
+    "name": "Superdocs",
+    "url": "https://getsearchablepdf.com"
+  },
+  "plugins": [
+    {
+      "name": "getsearchablepdf",
+      "source": "./",
+      "description": "Turn scanned PDFs and images into searchable PDFs with selectable, copyable text."
+    }
+  ]
+}

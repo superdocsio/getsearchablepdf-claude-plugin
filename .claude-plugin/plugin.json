@@ -1,0 +1,31 @@
+{
+  "name": "getsearchablepdf",
+  "displayName": "GetSearchablePDF",
+  "version": "1.0.1",
+  "description": "Turn scanned PDFs and images into searchable PDFs with selectable, copyable text.",
+  "author": {
+    "name": "Superdocs",
+    "url": "https://getsearchablepdf.com"
+  },
+  "homepage": "https://getsearchablepdf.com",
+  "repository": "https://github.com/superdocsio/getsearchablepdf-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "pdf",
+    "ocr",
+    "searchable pdf",
+    "scan",
+    "text recognition"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://getsearchablepdf.com/assistants#claude",
+  "supportUrl": "https://getsearchablepdf.com/assistants#support",
+  "privacyPolicyUrl": "https://getsearchablepdf.com/privacy",
+  "termsOfServiceUrl": "https://getsearchablepdf.com/terms",
+  "mcpServers": {
+    "getsearchablepdf": {
+      "type": "http",
+      "url": "https://mcp.getsearchablepdf.com/mcp"
+    }
+  }
+}
